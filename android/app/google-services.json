@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278266711830",
+    "project_id": "bookingapp-flutter",
+    "storage_bucket": "bookingapp-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278266711830:android:43509e615f375e16934a37",
+        "android_client_info": {
+          "package_name": "com.bonitoflakes.booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278266711830-iamcjkld3nuo475cvci5fi8pnvcae5l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUFpR1cT9rKnGPC0X33Zzq8vQRLBqsEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278266711830-iamcjkld3nuo475cvci5fi8pnvcae5l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
