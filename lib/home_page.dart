@@ -5,7 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:no_glow_scroll/no_glow_scroll.dart';
 
-import 'Components/Hotels.dart';
+import 'Components/hotels.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -73,8 +73,8 @@ class _HomePageState extends State<HomePage> {
                 padding: const EdgeInsets.all(10),
                 child: Row(
                   children: [
-                    Icon(Icons.search),
-                    SizedBox(
+                    const Icon(Icons.search),
+                    const SizedBox(
                       width: 10,
                     ),
                     Text(

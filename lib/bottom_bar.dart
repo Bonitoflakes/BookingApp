@@ -12,13 +12,6 @@ class BottomBar extends StatefulWidget {
 class _BottomBarState extends State<BottomBar> {
   int _currentIndex = 0;
 
-  static final _widgetOptions = [
-    const Text('Home'),
-    const Text('Search'),
-    const Text('Tickets'),
-    const Text('Profile'),
-  ];
-
   void setCurrentIndex(int value) {
     setState(() {
       _currentIndex = value;
